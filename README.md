@@ -1,5 +1,5 @@
 # Bio
-- MSc CS student @TUM
+- M.Sc. CS student @TUM
 - Interested in web applications and low-level programming
 - Always seeking new challenges
 
@@ -7,14 +7,14 @@
 Here is an overview of some of the projects I worked on. Most of these are hosted on my own Gitlab instance over at https://git.gento0.de
 
 ## University
-- Go implementation of a Peer-To-Peer onion network for the class Peer to Peer Systems and Security
+- Go implementation of a Peer-To-Peer onion network for the class Peer-to-Peer-Systems and Security
   - [https://git.gento0.de/till/p2p-onion](https://git.gento0.de/till/p2p-onion)
-- eBPF implementations for performance testing and POCs, used in my Bachelor's Thesis
+- eBPF implementations for performance testing and POCs of stateful eBPF programs, used in my Bachelor's Thesis
   - [https://git.gento0.de/till/ebpf-code](https://git.gento0.de/till/ebpf-code)
 - Minimal kernel for virtual machine file injection via HTTP or using a filesystem overlay provided in the `initrd`. Created as part of my Bachelor seminar
   - [https://git.gento0.de/till/network-boot](https://git.gento0.de/till/network-boot)
   - [https://git.gento0.de/till/network-boot-http](https://git.gento0.de/till/network-boot-http)
-- Additionally, I attended the following classes and created solutions for their respective assignments. However, since the same exercises are still used in at least some of them, these repsitories are not publicly available
+- Additionally, I attended the following classes and created solutions for their respective assignments. However, since the same exercises are still used in at least some of them, these repositories are not publicly available
   - Advanced Topics of Software Engineering
   - Numerical Programming
   - Cloud Computing
