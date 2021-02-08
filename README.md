@@ -14,7 +14,7 @@ Here is an overview of some of the projects I worked on. Most of these are hoste
 - Minimal kernel for virtual machine file injection via HTTP or using a filesystem overlay provided in the `initrd`. Created as part of my Bachelor seminar
   - [https://git.gento0.de/till/network-boot](https://git.gento0.de/till/network-boot)
   - [https://git.gento0.de/till/network-boot-http](https://git.gento0.de/till/network-boot-http)
-- Additionally, I attended the following classes and created solutions for their respective assignments. However, since the same exercises are still used in at least some of them, these repsitories are not public available
+- Additionally, I attended the following classes and created solutions for their respective assignments. However, since the same exercises are still used in at least some of them, these repsitories are not publicly available
   - Advanced Topics of Software Engineering
   - Numerical Programming
   - Cloud Computing
