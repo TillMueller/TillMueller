@@ -7,7 +7,7 @@
 Here is an overview of some of the projects I worked on. Most of these are hosted on my own Gitlab instance over at https://git.gento0.de
 
 ## University
-- Go implementation of a Peer-To-Peer onion network for the class Peer-to-Peer-Systems and Security
+- Go implementation of a Peer-To-Peer onion network for the class Peer-to-Peer-Systems and Security (created as part of a team of two)
   - [https://git.gento0.de/till/p2p-onion](https://git.gento0.de/till/p2p-onion)
 - eBPF implementations for performance testing and POCs of stateful eBPF programs, used in my Bachelor's Thesis
   - [https://git.gento0.de/till/ebpf-code](https://git.gento0.de/till/ebpf-code)
@@ -28,6 +28,8 @@ Here is an overview of some of the projects I worked on. Most of these are hoste
 ## Spare Time Projects
 These are projects I did in my spare time and are therefore not directly connected to any university classes
 ### Programming
+- Home Automation Software for controlling shutters over WiFi using Raspberry Pis (group collaboration with some other students)
+  - [https://github.com/VeraKowalczuk/home-automation-server](https://github.com/VeraKowalczuk/home-automation-server)
 - Very small program simulating a disease outbreak, my first `C++` program beyond Hello World to get some idea of how the language works
   - [https://git.gento0.de/till/infection](https://git.gento0.de/till/infection)
 - Fix for the MTU detection in [Chiaki](https://github.com/thestr4ng3r/chiaki), an open-source Playstation remote play client
