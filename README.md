@@ -1,7 +1,7 @@
 # Bio
 - M.Sc. CS student @TUM
 - Interested in web application security, low-level programming and the Linux kernel
-- Always seeking new challenges
+- Always seeking new challenges (if you think you have something that fits this description please send me a message at hi{at}tillmueller.dev)
 
 # Projects
 Here is an overview of some of the projects I worked on. Most of these are hosted on my own Gitlab instance over at https://git.gento0.de
