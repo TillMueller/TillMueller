@@ -1,6 +1,6 @@
 # Bio
 - M.Sc. CS student @TUM
-- Interested in web applications, low-level programming and the Linux kernel
+- Interested in web application security, low-level programming and the Linux kernel
 - Always seeking new challenges
 
 # Projects
