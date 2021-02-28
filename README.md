@@ -1,6 +1,6 @@
 # Bio
 - M.Sc. CS student @TUM
-- Interested in web application security, low-level programming and the Linux kernel
+- Interested in web application deployment / security, networking, low-level programming and the Linux kernel
 - Always seeking new challenges (if you think you have something that fits this description please send me a message at hi{at}tillmueller.dev)
 
 # Projects
