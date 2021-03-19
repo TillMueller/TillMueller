@@ -38,6 +38,8 @@ These are projects I did in my spare time and are therefore not directly connect
   - [https://git.gento0.de/till/network-boot](https://git.gento0.de/till/network-boot)
   - [https://git.gento0.de/till/network-boot-http](https://git.gento0.de/till/network-boot-http)
 - Additionally, I attended the following classes and created solutions for their respective assignments. However, since the same exercises are still used in at least some of them, these repositories are not publicly available
+  - Network Security
+  - IT Security
   - Advanced Topics of Software Engineering
   - Numerical Programming
   - Cloud Computing
